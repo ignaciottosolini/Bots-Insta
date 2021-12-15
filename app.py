@@ -1,8 +1,8 @@
 from instapy import InstaPy
 from selenium import webdriver
 
-instagram_username = 'nacholesst'
-instagram_password = 'caosdrc2960'
+instagram_username = '****'
+instagram_password = '****'
 
 driver = webdriver.Chrome("C:/Users/Ignacio Tosolini/Downloads/chromedriver_win32/chromedriver.exe")
 
